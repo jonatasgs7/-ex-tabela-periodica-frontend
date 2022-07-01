@@ -1,6 +1,9 @@
 # Tabela Periódica
 Implementação da tabela periódica - Academia Java - HTML, CSS, Javascript
 
+<a href="https://ex-tabela-periodica-frontend.vercel.app/" target="_blank">Link do projeto</a>
+
+
 <h3>Prints</h3>
 
 Disposição da tabela:<br />
